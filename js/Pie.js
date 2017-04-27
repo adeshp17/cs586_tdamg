@@ -20,15 +20,9 @@ class Pie extends Graph{
 
 
 	  var colorArray = [
-<<<<<<< HEAD
-        '#FF6384',
-        '#36A2EB',
-        '#FFCE56'
-=======
-							"#FF6384",
-							"#36A2EB",
-							"#FFCE56"
->>>>>>> refs/remotes/origin/master
+				"#FF6384",
+				"#36A2EB",
+				"#FFCE56"
       ]
       var borColorArray = [
         'rgba(255, 99, 134, 1)',
