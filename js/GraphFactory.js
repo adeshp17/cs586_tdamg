@@ -14,6 +14,8 @@ class GraphFactory{
       var graph = new Polar(file)
     }else if(this.graphType == "Doughnut"){
       var graph = new Doughnut(file)
+    }else if(this.graphType == "Pivot"){
+      var graph = new Pivot(file)
     }else if(this.graphType == "Pie"){
       var graph = new Pie(file)
     }else{
